@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Some key links about me:
+- [jonaso.de](https://www.jonaso.de)
+
+
 <!--
 **joetm/joetm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
