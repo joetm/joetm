@@ -6,7 +6,7 @@ I’m currently working as a Postdoctoral Researcher at the University of Jyväs
 
 
 Some key links about me:
-- [jonaso.de](https://www.jonaso.de) (website)
+- [jonaso.de](https://www.jonaso.de) (main website)
 - [jyu.fi](https://www.jyu.fi/it/fi/tiedekunta/henkilosto/henkilosto/oppenlander-jonas) (university page)
 
 - [Academic CV](https://www.jonaso.de/cv/oppenlaender-cv.pdf) and [Resume](https://www.jonaso.de/cv/resume.pdf)
