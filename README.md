@@ -1,14 +1,9 @@
 ### Hi there 👋
 
-I’m currently working as a Postdoctoral Researcher at the University of Jyväskylä in Finland 🇫🇮
-
-![JYU](https://github.com/joetm/joetm/blob/main/2021-06-10-JYU-img-JK-0962.jpg?raw=true)
-
+I am a Senior Research Scientist at Elisa Corporation in Finland 🇫🇮
 
 Some key links about me:
 - [jonaso.de](https://www.jonaso.de) (main website)
-- [jyu.fi](https://www.jyu.fi/it/fi/tiedekunta/henkilosto/henkilosto/oppenlander-jonas) (university page)
-
 - [Academic CV](https://www.jonaso.de/cv/oppenlaender-cv.pdf) and [Resume](https://www.jonaso.de/cv/resume.pdf)
 
 <!--
