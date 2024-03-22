@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I am a Senior Research Scientist at Elisa Corporation in Finland 🇫🇮
+I do web stuff.
 
 Some key links about me:
 - [jonaso.de](https://www.jonaso.de) (main website)
+- [komasurfer.com/portfolio](https://komasurfer.com/portfolio/) (webdev)
 - [Academic CV](https://www.jonaso.de/cv/oppenlaender-cv.pdf) and [Resume](https://www.jonaso.de/cv/resume.pdf)
 
 <!--
