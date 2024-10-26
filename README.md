@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-I do web stuff.
+Postdoctoral researcher at University of Oulu.
+
+I like web stuff.
 
 Some key links about me:
 - [jonaso.de](https://www.jonaso.de) (main website)
 - [komasurfer.com/portfolio](https://komasurfer.com/portfolio/) (webdev)
-- [Academic CV](https://www.jonaso.de/cv/oppenlaender-cv.pdf) and [Resume](https://www.jonaso.de/cv/resume.pdf)
 
 <!--
 **joetm/joetm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
