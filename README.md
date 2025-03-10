@@ -2,7 +2,7 @@
 
 Postdoctoral researcher at University of Oulu.
 
-I like web stuff.
+I like applied AI and web stuff.
 
 Some key links about me:
 - [jonaso.de](https://www.jonaso.de) (main website)
